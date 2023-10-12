@@ -6,7 +6,7 @@ function Comp1():JSX.Element{
     return (
       <>
         <div>
-       component 3
+       this component wouda conplict 
         </div>
       </>
     )
